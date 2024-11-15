@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer , Designer
+Full Stack Developer
 
 
 ## 🌐 Socials:
