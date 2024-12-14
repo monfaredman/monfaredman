@@ -1,9 +1,23 @@
 # Hi I'm Moslem 👋:
-🧑‍💻 I’m currently working on-site.
-💻 📱 I’m a Full Stack Developer (React | MERN | DevOps | Architecture)
-❤ My favorite stack is Typescript, React, Nextjs, CLI & EXPO, Redux, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
-🧑‍💻 Current role Front-End Stack Developer
-🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
+🧑‍💻 **I’m currently working on-site.**  
+
+💻 📱 **I’m a Full Stack Developer**  
+*(React | MERN | DevOps | Architecture)*  
+
+❤ **My favorite stack:**  
+- Typescript, React, Next.js, CLI & EXPO, Redux  
+- Node.js, NestJS, GraphQL, TypeORM  
+- DevOps, Serverless Backend (Firebase, AWS, Azure)  
+- Tailwind CSS, Restyle UI (@shopify/restyle)  
+
+🧑‍💻 **Current Role:**  
+- Front-End Stack Developer  
+
+🤔 **I’m looking for help with:**  
+- Great resources to learn  
+- Books to read  
+- Project ideas to build  
+
 
 
 ## 🌐 Socials:
