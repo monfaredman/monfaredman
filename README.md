@@ -1,5 +1,9 @@
-# 💫 About Me:
-Full Stack Developer
+# Hi I'm Moslem 👋:
+🧑‍💻 I’m currently working on-site.
+💻 📱 I’m a Full Stack Developer (React | MERN | DevOps | Architecture)
+❤ My favorite stack is Typescript, React, Nextjs, CLI & EXPO, Redux, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
+🧑‍💻 Current role Front-End Stack Developer
+🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 
 
 ## 🌐 Socials:
