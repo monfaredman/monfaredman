@@ -8,7 +8,7 @@
 - Typescript, React, Next.js, CLI & EXPO, Redux  
 - Node.js, NestJS, GraphQL, TypeORM  
 - DevOps, Serverless Backend (Firebase, AWS, Azure)  
-- Tailwind CSS, Restyle UI (@shopify/restyle)  
+- Tailwind CSS, Restyle UI  
 
 🧑‍💻 **Current Role:**  
 - Front-End Stack Developer  
