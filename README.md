@@ -2,7 +2,7 @@
 🧑‍💻 **I’m currently working on-site.**  
 
 💻 📱 **I’m a Full Stack Developer**  
-*(React | MERN | DevOps | Architecture)*  
+*(React | Nest | MERN | DevOps | Architecture)*  
 
 ❤ **My favorite stack:**  
 - Typescript, React, Next.js, CLI & EXPO, Redux  
